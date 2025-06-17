@@ -11,6 +11,6 @@ def longest_unique_substring(s: str) -> int:
     
     return max_len
 
-# Example usage:
-print(longest_unique_substring("abcabcbb"))  # Output: 3
-print(longest_unique_substring("bbbbb"))     # Output: 1
+
+print(longest_unique_substring("abcabcbb"))  
+print(longest_unique_substring("bbbbb"))    
